@@ -23,7 +23,7 @@ Built with SwiftUI using a clean, scalable architecture.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tracker.git
+   git clone https://github.com/avadacodavra/ExpenseTracker.git
    ```
 
 2. Open the project in Xcode.
